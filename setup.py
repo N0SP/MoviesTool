@@ -16,9 +16,9 @@ setup(
     version = '3.8.3',
     license = 'MIT',
     description = "Descarga tus peliculas y series, automatiza todo y crea tu propio Netflix (hecho con fines de aprendizaje) completamente funcional (y con más contenido que el de Netflix) haciendo uso de Plex, Ombi y otras tecnologías más. ⭐",
-    author = 'ElHaban3ro',
+    author = 'N0SP',
     author_email = 'habanferd@gmail.com',
-    url = 'https://github.com/ElHaban3ro/MovieTool',
+    url = 'https://github.com/N0SP/MoviesTool',
     keywords = ['python', 'torrent', 'torrent-management', 'movies', 'plex', 'hbo', 'series', 'netflix', 'ombi', 'peliculas'],
     classifiers = [
         'Programming Language :: Python :: 3.10'
